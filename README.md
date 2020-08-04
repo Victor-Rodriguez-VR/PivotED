@@ -14,7 +14,8 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
+# Ideas and Suggesstions
+* Mind maps!
 - Bulleted
 - List
 
